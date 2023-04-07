@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <div className="container">
       <h1>Howdy!! Welcome to my wpaskjbdn zqnakjsnde.. </h1>
-      <p>This is my page about wpaskjbdn zqnakjsnde.</p>
+      <p>This is my page about wpaskjbdn zqnakjsnde!!!!!</p>
       <p1> I am Varshani Reddy !!</p1>
       <div className="button-container">
         <input type="text" placeholder="Search" className="search-bar" />
