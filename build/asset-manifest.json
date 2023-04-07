@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ISR_PVR_SEO/static/css/main.835ca680.css",
-    "main.js": "/ISR_PVR_SEO/static/js/main.57b435e9.js",
+    "main.css": "/ISR_PVR_SEO/static/css/main.3cb1e7cc.css",
+    "main.js": "/ISR_PVR_SEO/static/js/main.905f2f3f.js",
     "static/js/787.2f3502ca.chunk.js": "/ISR_PVR_SEO/static/js/787.2f3502ca.chunk.js",
     "index.html": "/ISR_PVR_SEO/index.html",
-    "main.835ca680.css.map": "/ISR_PVR_SEO/static/css/main.835ca680.css.map",
-    "main.57b435e9.js.map": "/ISR_PVR_SEO/static/js/main.57b435e9.js.map",
+    "main.3cb1e7cc.css.map": "/ISR_PVR_SEO/static/css/main.3cb1e7cc.css.map",
+    "main.905f2f3f.js.map": "/ISR_PVR_SEO/static/js/main.905f2f3f.js.map",
     "787.2f3502ca.chunk.js.map": "/ISR_PVR_SEO/static/js/787.2f3502ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.835ca680.css",
-    "static/js/main.57b435e9.js"
+    "static/css/main.3cb1e7cc.css",
+    "static/js/main.905f2f3f.js"
   ]
 }
