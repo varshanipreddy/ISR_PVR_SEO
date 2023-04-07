@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ISR_PVR_SEO/static/css/main.835ca680.css",
+    "main.js": "/ISR_PVR_SEO/static/js/main.ad2dc31d.js",
+    "static/js/787.2f3502ca.chunk.js": "/ISR_PVR_SEO/static/js/787.2f3502ca.chunk.js",
+    "index.html": "/ISR_PVR_SEO/index.html",
+    "main.835ca680.css.map": "/ISR_PVR_SEO/static/css/main.835ca680.css.map",
+    "main.ad2dc31d.js.map": "/ISR_PVR_SEO/static/js/main.ad2dc31d.js.map",
+    "787.2f3502ca.chunk.js.map": "/ISR_PVR_SEO/static/js/787.2f3502ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835ca680.css",
+    "static/js/main.ad2dc31d.js"
+  ]
+}
