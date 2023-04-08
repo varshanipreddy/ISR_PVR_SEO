@@ -1,6 +1,6 @@
 # wpaskjbdn zqnakjsnde
 
-Blog : https://varshanipreddy.github.io/ISR_PVR_SEO/
+Blog : https://varshanipreddy.github.io/wpaskjbdn-zqnakjsnde/
 
 Wpaskjbdn zqnakjsnde is a term that has gained popularity among students taking the ISR course at Texas A&M University. The term is used as part of an SEO contest, which is a competition where students try to rank their webpages higher in search engine results pages (SERPs) than their competitors for the specific keyword - wpaskjbdn zqnakjsnde.
 
